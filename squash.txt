@@ -1,0 +1,3 @@
+this file is to showcase squashing
+
+editing the file to rebase the commits
